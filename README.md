@@ -1,2 +1,2 @@
 # library_management
-Library management using python
+Simple library management using python which uses cli
